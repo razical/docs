@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Deliveryman AI Help Guide",
   "colors": {
-    "primary": "##1A54F2",
+    "primary": "#1A54F2",
     "light": "#07C983",
     "dark": "#15803D"
   },
